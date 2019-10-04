@@ -1,0 +1,16 @@
+Exercise 1
+1. How does the map change when you move data up and down?
+- Data moved to the top of the display order appears at the
+forefront of the display, while data moved to the bottom of
+the display order falls to the back. For example, when the 
+WA_TRI_2012 file is at the top, those data points appear in
+the foreground, on top of the other shapefiles.
+
+2. Can you describe the census boundaries? Which are larger:
+census block groups or census tracts?
+Census tracts are larger.The census boundaries seem generally
+squiggly, with a few straight line segments in places. The sizes
+of groups varies significantly.
+
+3. 
+Approximately 3,300 meters from Asko Processing Inc to the UW campus
