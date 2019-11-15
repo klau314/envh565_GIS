@@ -1,0 +1,6 @@
+Projection    GEOGRAPHIC
+Datum         HPGN
+Spheroid      GRS80
+Units         DD
+Zunits        NO
+Parameters    
